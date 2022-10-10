@@ -1,0 +1,13 @@
+//  ===============================================================================================
+//  File Name: mixins.scss
+//  Description: Extended mixins file with new mixins features.
+//  ----------------------------------------------------------------------------------------------
+//  Item Name: TVSI - Vuejs, React, Angular, HTML & Laravel Admin Dashboard Template
+//  Author: TVSI
+
+//  ================================================================================================
+
+@import "mixins/_type"; //(NEW)
+
+// Components
+@import "mixins/_navs";
